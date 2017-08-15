@@ -1,0 +1,12 @@
+.RFlight {
+    width: 100px;
+    height: 100px
+}
+
+.RFlight on {
+    background-color: red;
+}
+
+.RFlight off {
+    background-color: black;
+}
